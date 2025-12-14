@@ -8,7 +8,7 @@ Full-stack Instagram clone with Spring Boot backend and React.js frontend.
 - **Posts**: Create, view, like, and comment on posts
 - **Social**: Follow/unfollow users, view profiles
 - **Feed**: Home feed with posts from followed users
-- **Responsive UI**: Clean Next.js frontend with React
+- **Responsive UI**: Clean frontend with React JS
 
 ## 🛠️ Tech Stack
 
@@ -21,7 +21,6 @@ Full-stack Instagram clone with Spring Boot backend and React.js frontend.
 - Lombok
 
 ### Frontend
-- Next.js 14
 - React 18
 - Axios
 - CSS
