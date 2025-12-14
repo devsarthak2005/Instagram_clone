@@ -1,6 +1,6 @@
 # Sarinsta - Mini Instagram Backend + Frontend
 
-Full-stack Instagram clone with Spring Boot backend and Next.js frontend.
+Full-stack Instagram clone with Spring Boot backend and React.js frontend.
 
 ## 🚀 Features
 
@@ -13,7 +13,7 @@ Full-stack Instagram clone with Spring Boot backend and Next.js frontend.
 ## 🛠️ Tech Stack
 
 ### Backend
-- Java 21
+- Java 17
 - Spring Boot 3.4.2
 - Spring Security + JWT
 - Spring Data JPA
