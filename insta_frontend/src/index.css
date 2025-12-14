@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #fafafa;
+}
+
+.auth-container {
+  width: 300px;
+  margin: 100px auto;
+  padding: 20px;
+  background: white;
+  border: 1px solid #ddd;
+}
+
+.auth-container input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.auth-container button {
+  width: 100%;
+  padding: 8px;
+  background: #3897f0;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
